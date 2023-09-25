@@ -9,9 +9,9 @@
 <header>
   <div align="center">
     <p>🛠️&nbsp<i>Group of developers making entertaining games for the community!</i></p>
-    <a href="https://www.roblox.com/games/6772319845" rel="external">
+    <a target="_blank" href="https://www.roblox.com/games/6772319845" rel="external" target="_blank" >
       <img src="https://img.shields.io/badge/Play%20on%20Roblox-B7312F?style=for-the-badge&logo=roblox&logoColor=white" title="Play on Roblox" alt="Play on Roblox button"></a>
-    <a href="https://www.roblox.com/groups/10639016/PowerZone" rel="external">
+    <a target="_blank" href="https://www.roblox.com/groups/10639016/PowerZone" rel="external">
       <img src="https://img.shields.io/badge/Join%20a%20group-F56C2D?style=for-the-badge&logo=roblox&logoColor=white" title="Join a group" alt="Join a group button"></a>
   </div>
 </header>
